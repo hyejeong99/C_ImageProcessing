@@ -3,7 +3,7 @@ OpenCV를 활용한 영상처리
 
 - OpenCV
 - C++
-- [Image Processing](https://github.com/hyejeong99/Image-Processing) : Image Processing with C++
+- [Image Processing](https://github.com/hyejeong99/ImageProcessing) : Image Processing with C++
 
 ### OpenCV를 이용한 영사처리
 #### coin
